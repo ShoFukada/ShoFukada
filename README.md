@@ -1,83 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sho%20Fukada&fontSize=48&fontColor=e0e6ed&animation=fadeIn&desc=Full-Stack%20Engineer%20%2F%20CTO%20%40%20Medurance&descSize=18&descAlignY=75" width="100%" />
+# Sho Fukada
 
-<p align="center">
-  <a href="https://www.medurance.jp/"><img src="https://img.shields.io/badge/Medurance-CTO-2c5364?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://zenn.dev/fukasho"><img src="https://img.shields.io/badge/Zenn-@fukasho-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" /></a>
-  <a href="https://jp.linkedin.com/in/sho-fukada-4a325727a"><img src="https://img.shields.io/badge/LinkedIn-Sho%20Fukada-0A66C2?style=for-the-badge&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ShoFukada&style=for-the-badge&color=203a43" />
-</p>
+**CTO @ [Medurance](https://www.medurance.jp/)** — full-stack engineer working across web, mobile, and cloud.
 
-## 🧑‍💻 About Me
+Studied Electrical & Electronic Engineering at The University of Tokyo.
+Research interests: information retrieval, RAG, and computer vision.
 
-- 🏢 **CTO @ [Medurance](https://www.medurance.jp/)** — leading product & engineering
-- 🎓 The University of Tokyo
-- 🌐 Full-stack — mobile apps to cloud infrastructure, all layers in production
-- 🔎 Research: Information Retrieval / RAG / Computer Vision
-- 🤖 Currently deep into **AI Agents / RAG** — Bedrock AgentCore, Strands Agents, S3 Vectors
-- ✍️ Writing tech articles on [Zenn](https://zenn.dev/fukasho)
+[Zenn](https://zenn.dev/fukasho) · [LinkedIn](https://jp.linkedin.com/in/sho-fukada-4a325727a)
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 **TREC 2025 RAG Track — 1st place** in Retrieval performance (+ 🥉 3rd place in RAG) — as team *UTokyo-HitU* at NIST's international IR evaluation workshop [TREC](https://trec-rag.github.io/) &nbsp;[[UTokyo News](https://www.t.u-tokyo.ac.jp/topics/tp2026-05-11-002)] [[Report](https://trec.nist.gov/pubs/trec34/papers/UTokyo.rag.pdf)]
-- 🎤 **MIRU 2026 — Oral presentation** (accepted) — the largest computer vision symposium in Japan
+### TREC 2025 RAG Track — 1st in Retrieval performance, 3rd in RAG
 
-## 🛠 Tech Stack
+Team **UTokyo-HitU** at the Text REtrieval Conference (TREC), the international IR evaluation workshop organized by NIST.
 
-### Languages
+[UTokyo News](https://www.t.u-tokyo.ac.jp/topics/tp2026-05-11-002) · [Team Report (PDF)](https://trec.nist.gov/pubs/trec34/papers/UTokyo.rag.pdf) · [TREC RAG Track](https://trec-rag.github.io/)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-</p>
+### MIRU 2026 — Oral presentation
 
-### Backend / Frontend
+Accepted as an oral paper at MIRU, the largest computer vision symposium in Japan.
 
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
+## Tech Stack
 
-### Cloud & Infrastructure
+**Focus:** Information Retrieval · RAG · AI Agents · Computer Vision · Cloud Architecture
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+**Languages**
 
-### AI / LLM
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AgentCore-FF9900?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strands_Agents-6236FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-2c5364?style=for-the-badge" />
-</p>
+**Frameworks & Libraries**
 
-## 📌 Featured
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
 
-<p>
-  <a href="https://github.com/ShoFukada/agentcore_hands_on">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=agentcore_hands_on&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShoFukada/s3_vectors_rag_hands_on">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=s3_vectors_rag_hands_on&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+**AI & Data**
 
-## 📊 Stats
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
+**Cloud & Infrastructure**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
+
+## Projects
+
+- [agentcore_hands_on](https://github.com/ShoFukada/agentcore_hands_on) — Hands-on examples for building AI agents with Amazon Bedrock AgentCore, provisioned with Terraform
+- [s3_vectors_rag_hands_on](https://github.com/ShoFukada/s3_vectors_rag_hands_on) — RAG chatbot built on Amazon S3 Vectors and Bedrock Knowledge Bases
+- [uv-python-starter-template](https://github.com/ShoFukada/uv-python-starter-template) / [react-tanstack-starter-template](https://github.com/ShoFukada/react-tanstack-starter-template) — opinionated starter templates
+
+Writing about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
