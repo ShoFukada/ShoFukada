@@ -1,27 +1,33 @@
-# Sho Fukada
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sho%20Fukada&fontSize=48&fontColor=e0e6ed&animation=fadeIn&desc=CTO%20%40%20Medurance%20%2F%20Full-Stack%20Engineer&descSize=18&descAlignY=75" width="100%" />
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=Information+Retrieval+%C2%B7+RAG+%C2%B7+AI+Agents;Computer+Vision+%C2%B7+Cloud+Architecture;Web+%C2%B7+Mobile+%C2%B7+Infrastructure%2C+end+to+end" alt="Focus areas" /></a>
+</p>
+
+<p align="center">
+  <a href="https://zenn.dev/fukasho"><img src="https://img.shields.io/badge/Zenn-@fukasho-3EA8FF?style=flat-square&logo=zenn&logoColor=white" /></a>
+  <a href="https://jp.linkedin.com/in/sho-fukada-4a325727a"><img src="https://img.shields.io/badge/LinkedIn-Sho%20Fukada-0A66C2?style=flat-square&logoColor=white" /></a>
+  <a href="https://www.medurance.jp/"><img src="https://img.shields.io/badge/Medurance-CTO-2c5364?style=flat-square" /></a>
+</p>
 
 CTO @ [Medurance](https://www.medurance.jp/). Full-stack engineer: web, mobile, and cloud infrastructure.
 
 Studied Electrical & Electronic Engineering at The University of Tokyo.
 Research interests: information retrieval, RAG, and computer vision.
 
-[Zenn](https://zenn.dev/fukasho) · [LinkedIn](https://jp.linkedin.com/in/sho-fukada-4a325727a)
+## 🏆 Achievements
 
-## Achievements
-
-### TREC 2025 RAG Track: 1st in Retrieval performance, 3rd in RAG
+### 🥇 TREC 2025 RAG Track: 1st in Retrieval performance, 3rd in RAG
 
 With team **UTokyo-HitU** at the Text REtrieval Conference (TREC), NIST's international evaluation workshop for information retrieval.
 
 [UTokyo News](https://www.t.u-tokyo.ac.jp/topics/tp2026-05-11-002) · [Team Report (PDF)](https://trec.nist.gov/pubs/trec34/papers/UTokyo.rag.pdf) · [TREC RAG Track](https://trec-rag.github.io/)
 
-### MIRU 2026: Oral presentation
+### 🎤 MIRU 2026: Oral presentation
 
 Oral paper at MIRU, Japan's largest computer vision symposium.
 
-## Tech Stack
-
-**Focus:** Information Retrieval · RAG · AI Agents · Computer Vision · Cloud Architecture
+## 🛠 Tech Stack
 
 **Languages**
 
@@ -70,10 +76,34 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
 
-## Projects
+## 📌 Featured
+
+<p>
+  <a href="https://github.com/ShoFukada/agentcore_hands_on">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=agentcore_hands_on&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ShoFukada/s3_vectors_rag_hands_on">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=s3_vectors_rag_hands_on&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 - [agentcore_hands_on](https://github.com/ShoFukada/agentcore_hands_on): hands-on examples for building AI agents with Amazon Bedrock AgentCore, provisioned with Terraform
 - [s3_vectors_rag_hands_on](https://github.com/ShoFukada/s3_vectors_rag_hands_on): a RAG chatbot on Amazon S3 Vectors and Bedrock Knowledge Bases
 - [uv-python-starter-template](https://github.com/ShoFukada/uv-python-starter-template) / [react-tanstack-starter-template](https://github.com/ShoFukada/react-tanstack-starter-template): opinionated starter templates
 
 I write about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
+
+## 📊 Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoFukada&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
