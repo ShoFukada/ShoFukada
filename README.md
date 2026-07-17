@@ -35,7 +35,7 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats-sand-seven.vercel.app/?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoFukada&theme=tokyo-night&hide_border=true&area=true" width="100%" />
