@@ -1,6 +1,6 @@
 # Sho Fukada
 
-**CTO @ [Medurance](https://www.medurance.jp/)** — full-stack engineer working across web, mobile, and cloud.
+CTO @ [Medurance](https://www.medurance.jp/). Full-stack engineer: web, mobile, and cloud infrastructure.
 
 Studied Electrical & Electronic Engineering at The University of Tokyo.
 Research interests: information retrieval, RAG, and computer vision.
@@ -9,15 +9,15 @@ Research interests: information retrieval, RAG, and computer vision.
 
 ## Achievements
 
-### TREC 2025 RAG Track — 1st in Retrieval performance, 3rd in RAG
+### TREC 2025 RAG Track: 1st in Retrieval performance, 3rd in RAG
 
-Team **UTokyo-HitU** at the Text REtrieval Conference (TREC), the international IR evaluation workshop organized by NIST.
+With team **UTokyo-HitU** at the Text REtrieval Conference (TREC), NIST's international evaluation workshop for information retrieval.
 
 [UTokyo News](https://www.t.u-tokyo.ac.jp/topics/tp2026-05-11-002) · [Team Report (PDF)](https://trec.nist.gov/pubs/trec34/papers/UTokyo.rag.pdf) · [TREC RAG Track](https://trec-rag.github.io/)
 
-### MIRU 2026 — Oral presentation
+### MIRU 2026: Oral presentation
 
-Accepted as an oral paper at MIRU, the largest computer vision symposium in Japan.
+Oral paper at MIRU, Japan's largest computer vision symposium.
 
 ## Tech Stack
 
@@ -72,8 +72,8 @@ Accepted as an oral paper at MIRU, the largest computer vision symposium in Japa
 
 ## Projects
 
-- [agentcore_hands_on](https://github.com/ShoFukada/agentcore_hands_on) — Hands-on examples for building AI agents with Amazon Bedrock AgentCore, provisioned with Terraform
-- [s3_vectors_rag_hands_on](https://github.com/ShoFukada/s3_vectors_rag_hands_on) — RAG chatbot built on Amazon S3 Vectors and Bedrock Knowledge Bases
-- [uv-python-starter-template](https://github.com/ShoFukada/uv-python-starter-template) / [react-tanstack-starter-template](https://github.com/ShoFukada/react-tanstack-starter-template) — opinionated starter templates
+- [agentcore_hands_on](https://github.com/ShoFukada/agentcore_hands_on): hands-on examples for building AI agents with Amazon Bedrock AgentCore, provisioned with Terraform
+- [s3_vectors_rag_hands_on](https://github.com/ShoFukada/s3_vectors_rag_hands_on): a RAG chatbot on Amazon S3 Vectors and Bedrock Knowledge Bases
+- [uv-python-starter-template](https://github.com/ShoFukada/uv-python-starter-template) / [react-tanstack-starter-template](https://github.com/ShoFukada/react-tanstack-starter-template): opinionated starter templates
 
-Writing about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
+I write about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
