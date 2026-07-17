@@ -80,10 +80,10 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 
 <p>
   <a href="https://github.com/ShoFukada/agentcore_hands_on">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=agentcore_hands_on&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-five-nu-21.vercel.app/api/pin/?username=ShoFukada&repo=agentcore_hands_on&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/ShoFukada/s3_vectors_rag_hands_on">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoFukada&repo=s3_vectors_rag_hands_on&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-five-nu-21.vercel.app/api/pin/?username=ShoFukada&repo=s3_vectors_rag_hands_on&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -96,8 +96,8 @@ I write about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-five-nu-21.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p>
