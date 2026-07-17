@@ -27,6 +27,19 @@ With team **UTokyo-HitU** at the Text REtrieval Conference (TREC), NIST's intern
 
 Oral paper at MIRU, Japan's largest computer vision symposium.
 
+## 📊 Stats
+
+<p>
+  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-five-nu-21.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoFukada&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 ## 🛠 Tech Stack
 
 **Languages**
@@ -75,35 +88,5 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
-
-## 📌 Featured
-
-<p>
-  <a href="https://github.com/ShoFukada/agentcore_hands_on">
-    <img src="https://github-readme-stats-five-nu-21.vercel.app/api/pin/?username=ShoFukada&repo=agentcore_hands_on&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/ShoFukada/s3_vectors_rag_hands_on">
-    <img src="https://github-readme-stats-five-nu-21.vercel.app/api/pin/?username=ShoFukada&repo=s3_vectors_rag_hands_on&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-- [agentcore_hands_on](https://github.com/ShoFukada/agentcore_hands_on): hands-on examples for building AI agents with Amazon Bedrock AgentCore, provisioned with Terraform
-- [s3_vectors_rag_hands_on](https://github.com/ShoFukada/s3_vectors_rag_hands_on): a RAG chatbot on Amazon S3 Vectors and Bedrock Knowledge Bases
-- [uv-python-starter-template](https://github.com/ShoFukada/uv-python-starter-template) / [react-tanstack-starter-template](https://github.com/ShoFukada/react-tanstack-starter-template): opinionated starter templates
-
-I write about AI and cloud engineering on [Zenn](https://zenn.dev/fukasho).
-
-## 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats-five-nu-21.vercel.app/api/top-langs/?username=ShoFukada&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoFukada&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
