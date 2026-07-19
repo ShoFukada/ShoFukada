@@ -30,7 +30,7 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
+  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&rev=2&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
   <img src="https://github-readme-stats-five-nu-21.vercel.app/api/top-langs/?username=ShoFukada&exclude_repo=rag_test,github-readme-stats,github-readme-streak-stats&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </p>
 
