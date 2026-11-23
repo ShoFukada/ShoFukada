@@ -23,9 +23,9 @@ With team **UTokyo-HitU** at the Text REtrieval Conference (TREC), NIST's intern
 
 [UTokyo News](https://www.t.u-tokyo.ac.jp/topics/tp2026-05-11-002) · [Team Report (PDF)](https://trec.nist.gov/pubs/trec34/papers/UTokyo.rag.pdf) · [TREC RAG Track](https://trec-rag.github.io/)
 
-### 🎤 MIRU 2026: Oral presentation
+### 🏅 MIRU 2026: MIRU Student Excellence Award
 
-Oral paper at MIRU, Japan's largest computer vision symposium.
+Received the MIRU Student Excellence Award for an oral paper at MIRU, Japan's largest computer vision symposium.
 
 ## 📊 Stats
 
