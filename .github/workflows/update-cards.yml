@@ -1,0 +1,41 @@
+name: プロフィールのカードを更新
+
+# README の画像を GitHub の camo が表示のたびに Vercel へ取りに行くと、生成が遅いときに時間切れで壊れた画像になる。
+# ここで定期的に SVG を取って output ブランチに置き、README は raw.githubusercontent.com のファイルを指す。
+on:
+  schedule:
+    - cron: "23 21,9 * * *" # 日本時間の 6:23 と 18:23
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-cards
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: スクリプトと前回のカードを取る
+        run: |
+          git clone -q --depth 1 --branch "$GITHUB_REF_NAME" "https://github.com/$GITHUB_REPOSITORY.git" src
+          git clone -q --depth 1 --branch output "https://github.com/$GITHUB_REPOSITORY.git" out || mkdir out
+
+      - name: カードを取る
+        run: bash src/scripts/update-cards.sh out
+
+      # 一部のカードが取れなくても、取れた分は反映する
+      - name: output ブランチに置く
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd out
+          rm -rf .git
+          if [ -z "$(ls -A)" ]; then echo "置くカードが無い"; exit 1; fi
+          git init -q -b output
+          git add -A
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "カードを更新"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
