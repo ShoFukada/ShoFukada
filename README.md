@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sho%20Fukada&fontSize=48&fontColor=e0e6ed&animation=fadeIn&desc=CTO%20%40%20Medurance%20%2F%20Full-Stack%20Engineer&descSize=18&descAlignY=75" width="100%" />
+<img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/header.svg" width="100%" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&pause=1200&color=70A5FD&center=true&vCenter=true&width=620&lines=Information+Retrieval+%C2%B7+RAG+%C2%B7+AI+Agents;Computer+Vision+%C2%B7+Cloud+Architecture;Web+%C2%B7+Mobile+%C2%B7+Infrastructure%2C+end+to+end" alt="Focus areas" /></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/typing.svg" alt="Focus areas" /></a>
 </p>
 
 <p align="center">
@@ -30,15 +30,15 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 ## 📊 Stats
 
 <p>
-  <img src="https://github-readme-stats-five-nu-21.vercel.app/api?username=ShoFukada&show_icons=true&rev=2&theme=tokyonight&hide_border=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-stats-five-nu-21.vercel.app/api/top-langs/?username=ShoFukada&exclude_repo=rag_test,github-readme-stats,github-readme-streak-stats&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/stats.svg" height="165" />
+  <img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/top-langs.svg" height="165" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats-sand-seven.vercel.app/?user=ShoFukada&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/streak.svg" height="165" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoFukada&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/activity.svg" width="100%" />
 
 ## 🛠 Tech Stack
 
@@ -89,4 +89,4 @@ Oral paper at MIRU, Japan's largest computer vision symposium.
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/ShoFukada/ShoFukada/output/footer.svg" width="100%" />
