@@ -20,12 +20,35 @@ cards=(
   "footer|<svg|https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"
 )
 
+# 本文の最初の <?xml か <svg より前を捨て、XML として読めて目印を含むときだけ成功にする。
+# streak の Vercel は PHP の警告の HTML を SVG の前に出すことがあり、そのままでは画像として表示されない。
+clean_svg() {
+  python3 - "$1" "$2" <<'PY'
+import sys
+import xml.etree.ElementTree as ET
+
+path, marker = sys.argv[1], sys.argv[2]
+body = open(path, encoding="utf-8").read()
+starts = [i for i in (body.find("<?xml"), body.find("<svg")) if i >= 0]
+if not starts:
+    sys.exit("SVG が見つからない")
+body = body[min(starts):]
+try:
+    ET.fromstring(body.encode("utf-8"))
+except ET.ParseError as e:
+    sys.exit(f"XML として読めない: {e}")
+if marker not in body:
+    sys.exit(f"目印「{marker}」が無い")
+open(path, "w", encoding="utf-8").write(body)
+PY
+}
+
 for card in "${cards[@]}"; do
   IFS='|' read -r name marker url <<<"$card"
   tmp="$out/.$name.tmp"
   ok=
   for attempt in 1 2 3; do
-    if curl -fsS --max-time 60 -o "$tmp" "$url" && grep -q '<svg' "$tmp" && grep -qF "$marker" "$tmp"; then
+    if curl -fsS --max-time 60 -o "$tmp" "$url" && clean_svg "$tmp" "$marker"; then
       ok=1
       break
     fi
